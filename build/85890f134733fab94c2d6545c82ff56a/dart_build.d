@@ -1,0 +1,1 @@
+ C:\\Users\\PanDa\\Desktop\\evo_new_project\\build\\85890f134733fab94c2d6545c82ff56a\\dart_build_result.json:  C:\\Users\\PanDa\\Desktop\\evo_new_project\\.dart_tool\\package_config.json C:\\Users\\PanDa\\Desktop\\evo_new_project\\pubspec.yaml C:\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\panda\\desktop\\evo_new_project\\.dart_tool\\package_config.json
